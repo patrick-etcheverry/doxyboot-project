@@ -21,3 +21,9 @@ doxygen
 - envoyer le projet sur Gitlab
 - l'URL de la page présentant la documentation générée est consultable depuis Gitlab en allant dans la section *Settings --> Pages*
 
+
+### Aperçu du type de résultat obtenu
+
+[![Aperçu du résultat obtenu](screenshot.png)
+
+
