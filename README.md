@@ -24,6 +24,6 @@ doxygen
 
 ### Aperçu du type de résultat obtenu
 
-[![Aperçu du résultat obtenu](screenshot.png)
+![Aperçu du résultat obtenu](screenshot.png)
 
 
