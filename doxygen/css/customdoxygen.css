@@ -29,6 +29,11 @@ a
   color: #3498db !important;
 }
 
+dl
+{
+  font-family: 'Noto Sans JP', sans-serif !important;
+  font-size: medium;
+}
 
 .mdescRight {
     background-color: white !important;
