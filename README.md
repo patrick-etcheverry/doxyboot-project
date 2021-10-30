@@ -1,13 +1,10 @@
 ### Présentation
 
-Doxyboot est un projet Doxygen pré-configuré avec les caractéristiques suivantes :
-- Intégration du framework Bootstrap pour générer une documentation html "moderne" ;
-- Intégration d'un fichier .gitlab-ci.yml permettant de générer et déployer la documentation sur Gitlab.
-
+Doxyboot-project est un projet Doxygen pré-configuré qui intègre le framework Bootstrap afin de générer une documentation html avec un rendu "moderne".
 ### Pré-requis
 Pour utiliser Doxyboot, les pré-requis suivants sont nécessaires :
-- disposer d'une connexion d'une internet
-- avoir installer Doxygen sur sa machine
+- disposer d'une connexion internet ;
+- avoir installé Doxygen sur sa machine.
 
 ### Utilisation
 - clôner ou télécharger ce *repository*.
@@ -18,8 +15,7 @@ Pour utiliser Doxyboot, les pré-requis suivants sont nécessaires :
 cd doxygen
 doxygen
 ```
-- envoyer le projet sur Gitlab
-- l'URL de la page présentant la documentation générée est consultable depuis Gitlab en allant dans la section *Settings --> Pages*
+- la documentation html est alors générée dans le dossier **doc** du projet.
 
 
 ### Aperçu du type de résultat obtenu
